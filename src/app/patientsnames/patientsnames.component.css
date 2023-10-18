@@ -1,0 +1,51 @@
+.card {
+    margin: 10px;
+}
+
+.card-title {
+    font-size: 1.5rem;
+}
+
+.card-text {
+    font-size: 1.2rem;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+
+/* Custom CSS styles */
+.card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.card-title {
+    font-size: 1.5rem;
+    color: #007BFF; /* Blue color */
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #333; /* Dark gray color */
+}
+
+.container {
+    background-color: #f8f9fa; /* Light gray background */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #007BFF; /* Blue color for headings */
+}
+
+.btn-primary {
+    background-color: #007BFF; /* Blue button color */
+}
